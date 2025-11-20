@@ -2,14 +2,6 @@
 
 A Claude skill that converts web pages to Markdown format using Jina AI's reader service.
 
-## Features
-
-- Convert any web page to Markdown format
-- Uses Jina AI's reader service (`https://r.jina.ai/`)
-- Automatic filename generation from URLs
-- Supports custom filenames
-- Handles multiple phrasings and synonyms
-
 ## Installation
 
 1. Download [`web-to-markdown.skill`](https://github.com/CuriousDima/claude-web-to-markdown-skill/releases/download/0.2/web-to-markdown.skill)
@@ -49,8 +41,3 @@ The skill recognizes various ways to request conversion:
 3. Uses `curl` to retrieve the converted Markdown
 4. Saves the content to a `.md` file
 5. Provides a link to download your file
-
-## Acknowledgments
-
-- [Jina AI](https://jina.ai/) for providing the web-to-markdown reader service
-- [Anthropic](https://www.anthropic.com/) for Claude and the Skills system
