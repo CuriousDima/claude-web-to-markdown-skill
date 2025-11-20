@@ -18,7 +18,7 @@ This skill enables Claude to convert any web page into clean, readable Markdown 
 
 ### Option 1: Direct Installation (Recommended)
 
-1. Download the pre-packaged skill file: [`web-to-markdown.skill`](./web-to-markdown.skill)
+1. Download the pre-packaged skill file: [`web-to-markdown.skill`](https://github.com/CuriousDima/claude-web-to-markdown-skill/releases/download/0.2/web-to-markdown.skill)
 2. In Claude, go to your Skills settings
 3. Click "Add Skill" or "Import Skill"
 4. Upload the `web-to-markdown.skill` file
