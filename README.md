@@ -5,7 +5,7 @@ A Claude skill that converts web pages to Markdown format using Jina AI's reader
 ## Installation
 
 1. Download [`web-to-markdown.skill`](https://github.com/CuriousDima/claude-web-to-markdown-skill/releases/download/0.2/web-to-markdown.skill)
-2. In Claude, go to Skills settings and upload the file
+2. In Claude, go to Skills settings and upload the file (Capabilities → Skills → Upload Skill)
 3. **Important**: Allow Claude Desktop to call jina.ai:
    - Open "Settings"
    - Go to "Capabilities"
